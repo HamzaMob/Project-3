@@ -1,0 +1,33 @@
+body {
+  background-color:black;
+  background-image: url("night.jpeg");
+  text-align: center;
+  font-family: serif;
+  color:#b0c4de;
+}
+h1 {
+  font-family: "sans-serif";
+  color: red;
+  text-align: center;
+  background-color:#191970;
+}
+h2 {
+  font-family: "sans-serif";
+  color: red;
+  text-align: center;
+  background-color:#000039;
+}
+img {
+	border-radius: 8px;
+	padding: 9px;
+	width: 250px;
+}
+#navbar{
+	overflow:hidden;
+	background-color:#add8e6;
+	position:relative;
+	top: 0;
+	width:95%;
+	font-size: 18px;
+}
+
