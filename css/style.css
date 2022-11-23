@@ -37,8 +37,6 @@ img {
   height: 500px;
   right: 25%;
   border: solid blue 50px;
-  border-radius: 15px;
+  border-radius: 10px;
 }
-ul{
-  margin-left: 1em;
-  list-style-type: none;
+
