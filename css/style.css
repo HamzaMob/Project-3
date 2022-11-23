@@ -39,4 +39,11 @@ img {
   border: solid blue 50px;
   border-radius: 10px;
 }
-
+#nav ul {
+    display: inline-block;
+    list-style-type: none;
+}
+ul{
+  margin-left: 1em;
+  list-style-type: none;
+}
