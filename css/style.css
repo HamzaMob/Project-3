@@ -36,7 +36,7 @@ img {
   width: 50%;
   height: 500px;
   right: 25%;
-  border: red 5px;
+  border: solid blue 50px;
   border-radius: 15px;
 }
 ul{
