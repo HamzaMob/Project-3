@@ -40,9 +40,12 @@ nav#horzl ul li a {
 	text-decoration: none;
 	text-align: center;
 	width: 100px;
-	padding: 0px 0px 0px 0px;
+	padding: 15px 0px 15px 0px;
 	border-radius: 4px;
 }	
+#container {
+	display: flex;
+}
 #navbar ul li{
 	list-style-type:none;
 }
