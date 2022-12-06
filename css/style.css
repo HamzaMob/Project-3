@@ -23,13 +23,27 @@ img {
 	width: 250px;
 }
 
-#navbar{
-	overflow:hidden;
-	background-color:#add8e6;
-	position:relative;
-	top: 0;
-	width:95%;
-	font-size: 18px;
+nav#horzl ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+}
+nav#horzl ul li {
+	float: left;
+	margins: 0 15px;
+}
+nav#horzl ul li a {
+	display: block;
+	background-color: red;
+	color: blue;
+	font-weight: bold;
+	text-decoration: none;
+	text-align: center;
+	width: 100px;
+	padding: 10px 0px 8px 0px;
+	border-radius: 4px;
+}	
 }
 #map{
   position: absolute;
