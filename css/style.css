@@ -34,20 +34,20 @@ nav#horzl ul li {
 }
 nav#horzl ul li a {
 	display: block;
-	background-color: red;
-	color: blue;
+	background-color: #00bfff;
+	color: #00bfff;
 	font-weight: bold;
 	text-decoration: none;
 	text-align: center;
 	width: 100px;
-	padding: 10px 0px 8px 0px;
+	padding: 0px 0px 0px 0px;
 	border-radius: 4px;
 }	
 #navbar ul li{
 	list-style-type:none;
 }
 #navbar a:hover{
-	color:blue;
+	color:red;
 	padding: 10px 	10px;
 }
 
