@@ -44,7 +44,7 @@ nav#horzl ul a {
 	border-radius: 4px;
 }
 
-#navbar ul li{
+#navbar{
 	list-style-type:none;
 }
 #navbar a:hover{
