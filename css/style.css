@@ -22,7 +22,6 @@ img {
 	padding: 9px;
 	width: 250px;
 }
-
 nav#horzl ul {
 	list-style-type: none;
 	padding: 0;
@@ -31,7 +30,7 @@ nav#horzl ul {
 }
 nav#horzl ul li {
 	float: left;
-	margins: 0 15px;
+	margin: 0 15px;
 }
 nav#horzl ul li a {
 	display: block;
@@ -44,7 +43,7 @@ nav#horzl ul li a {
 	padding: 10px 0px 8px 0px;
 	border-radius: 4px;
 }	
-#map{
+#map {
   position: absolute;
   width: 50%;
   height: 500px;
