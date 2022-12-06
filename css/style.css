@@ -44,7 +44,6 @@ nav#horzl ul li a {
 	padding: 10px 0px 8px 0px;
 	border-radius: 4px;
 }	
-}
 #map{
   position: absolute;
   width: 50%;
@@ -52,7 +51,6 @@ nav#horzl ul li a {
   right: 25%;
   border: solid blue 50px;
   border-radius: 10px;
-}
 }
 #index{
 	padding: 1em;
