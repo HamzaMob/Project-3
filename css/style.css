@@ -36,11 +36,9 @@ nav#horzl ul li {
 }
 nav#horzl ul li a {
 	display: block;
-	background-color: blue;
 	color: blue;
 	font-weight: bold;
 	text-decoration: none;
-	text-align: center;
 	width: 100px;
 	padding: 15px 0px 15px 0px;
 	border-radius: 20px;
