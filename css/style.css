@@ -32,7 +32,7 @@ nav#horzl ul li {
 	float: left;
 	margin: 0 15px;
 }
-nav#horzl ul li a {
+nav#horzl ul a {
 	display: block;
 	background-color: blue;
 	color: blue;
