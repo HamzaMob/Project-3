@@ -43,6 +43,9 @@ nav#horzl ul li a {
 	padding: 10px 0px 8px 0px;
 	border-radius: 4px;
 }	
+#navbar a:hover{
+	color:blue;
+	padding: 10px 	10px;
 #map {
   position: absolute;
   width: 50%;
