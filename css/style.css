@@ -34,8 +34,8 @@ nav#horzl ul li {
 }
 nav#horzl ul li a {
 	display: block;
-	background-color: #00bfff;
-	color: #00bfff;
+	background-color: blue;
+	color: blue;
 	font-weight: bold;
 	text-decoration: none;
 	text-align: center;
@@ -43,9 +43,11 @@ nav#horzl ul li a {
 	padding: 15px 0px 15px 0px;
 	border-radius: 4px;
 }	
+
 #container {
 	display: flex;
 }
+
 #navbar ul li{
 	list-style-type:none;
 }
